@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 Estou a procura de experiência profissional e vivência empresarial em desenvolvimento de software **#**
 
-- 💬 Me pergunte sobre **SQL, Python, C, C++, Assembly, STM32**
+- 💬 Me pergunte sobre **Node, DevOps, NoSQL, Golang, SQL, Python, C, C++, Assembly, STM32**
 
 - 📫 Contato **andretaciba124@gmail.com**
 
